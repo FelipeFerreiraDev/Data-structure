@@ -1,5 +1,5 @@
 # Estrutura de Dados | Data Structure
-
+<hr>
 ## PT-BR
 Repositório para armazenar estudos sobre estrutura de dados e programação em geral, utilizando de várias linguagens e ferramentas
 
