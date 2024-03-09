@@ -1,8 +1,11 @@
+# Estrutura de Dados | Data Structure
+
 ## PT-BR
 Repositório para armazenar estudos sobre estrutura de dados e programação em geral, utilizando de várias linguagens e ferramentas
 
 ## EN-US
 Repository to store studies about data structure and programming in general, using several languages and tools
+
 
 ## 📦 Tecnologias | Technologies
 
