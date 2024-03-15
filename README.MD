@@ -6,7 +6,6 @@ Repositório para armazenar estudos sobre estrutura de dados e programação em 
 ## EN-US
 Repository to store studies about data structure and programming in general, using several languages and tools
 
-
 ## 📦 Tecnologias | Technologies
 
 * [Python](https://www.python.org/)
@@ -14,11 +13,21 @@ Repository to store studies about data structure and programming in general, usi
 
 ## 🚀 Instalação | Install
 
-Para executar este projeto, você precisará ter o [Python](https://www.python.org/), [Java](https://www.java.com/pt-BR/) e [JDK](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html) instalados em sua máquina.
+Para executar este projeto, você precisará ter o [Python](https://www.python.org/), [Rust] e [Cargo](https://www.rust-lang.org/pt-BR), [Java](https://www.java.com/pt-BR/) e [JDK](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html) instalados em sua máquina.
 
 Instale o JDK em sua máquina
 ```sh
 sudo apt-get install default-jdk
+```
+
+Instale o Rust e o Cargo em sua máquina
+```sh
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
+Instale o Python em sua máquina
+```sh
+sudo apt-get install python3
 ```
 
 Clone o projeto e acesse a pasta
